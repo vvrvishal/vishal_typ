@@ -1,0 +1,104 @@
+/* all */
+*{
+    /* border: 1px solid; */
+}
+/* header  */
+.main_navigation{
+    box-shadow: 0px 1px 7px 1px lightgrey;
+}
+.mainmenubar_items ul li a {
+    font-size: .75rem !important;
+}
+.logobar {
+    border-bottom-left-radius: 50px;
+    height: 45px;
+}
+.login_button {
+    height: 54.5%;
+    outline: none !important;
+    border: 1px solid #0081f2;
+}
+
+.menu_list {
+    font-size: 18px;
+}
+
+.submenu_items {
+    height: 35px;
+}
+
+.no_of_product {
+    top: -1.2em;
+}
+
+.search_btn {
+    height: 40px;
+}
+
+.user_input {
+    outline: none;
+}
+#bottom_location_button:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+.search_cuntry {
+    width: 200px !important;
+}
+
+#search_input,
+.search_cuntry,
+.Admin_panel_button,
+.user_panel_button,
+.search_location_button,
+.search_button {
+    font-size: .75rem !important;
+    border: 1px solid #0081f2 !important;
+    padding-top: .185rem !important;
+    padding-bottom: .185rem !important;
+}
+
+#search_input,
+.search_cuntry {
+    height: calc(1.5em + 0.3rem + 2px) !important;
+}
+
+#search_button_selection:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+#search_btn:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+.search_cuntry:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+#search_input:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+#search_input:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+/* landing page carousel  */
+.carousel_caption{
+    border-bottom-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+.see_offers {
+    border: 1px solid;
+    border-bottom-left-radius: 60px;
+    border-top-right-radius: 60px;
+    box-shadow: 0px 0px 28px 5px lightgrey;
+    position: relative;
+    top: -95px;
+    background: white;
+}
